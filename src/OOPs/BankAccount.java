@@ -1,3 +1,5 @@
+
+//  This is my encapsulation practice code 
 package OOPs;
 
 public class BankAccount {
