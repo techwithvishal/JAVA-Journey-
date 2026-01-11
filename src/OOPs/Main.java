@@ -1,3 +1,5 @@
+// ye main class h encapsulation waale code ki 
+
 package OOPs;
 
 public class Main {
