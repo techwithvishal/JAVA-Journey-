@@ -1,3 +1,5 @@
+ // inheritence ka question code practice 
+
 package OOPs;
 
 // Parent class
